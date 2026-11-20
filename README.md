@@ -2,6 +2,7 @@
 
 ###
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Punllarena&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=Punllarena&rank_icon=github&show_icons=true&include_all_commits=true&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Punllarena&layout=donut&langs_count=4&hide_values=true&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=Punllarena&layout=donut&langs_count=4&hide_values=true&theme=dark_github)
 
 ###
 
